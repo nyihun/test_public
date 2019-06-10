@@ -1,0 +1,7 @@
+﻿2013000002,Two Park,ARC,부교수
+2013000003,Three Park,CRP,조교수
+2013000004,Four Park,CEE,정교수
+2013000005,Five Park,MEU,부교수
+2013000006,Six Park,MST,조교수
+2013000007,Seven Park,CSI,정교수
+2013000008,Eight Park,IIE,부교수
